@@ -9,6 +9,7 @@ We are a coding organisation run by @TheAlienDoctor! Working on various MC & web
     @NiceygyLive - Dev / Linux nerd
     @MDxWARRIORxOP - Dev / javascript wizard
     @epizyy66 - Dev
+    @MiniFeraful - Does nothing
     
     
 ## Current Projects:
