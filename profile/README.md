@@ -11,7 +11,7 @@ We are a coding organisation run by @TheAlienDoctor! Working on various MC & web
     @epizyy66 - Dev
     @MiniFeraful - Does nothing
 
-##In progress projects:
+## In progress projects:
     Twitch Bot (public soon ™️)
     YouTube bot (starting soon ™️)
     Dashboard (alpha release soon ™️)
