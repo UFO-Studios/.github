@@ -6,15 +6,16 @@ We are a coding organisation run by @TheAlienDoctor! Working on various MC & web
 ## Current members:
 
     @TheAlienDoctor - Owner / MCBE go-to guy
-    @NiceygyLive - Dev / Linux Pro
+    @NiceygyLive - Dev / ~~Linux Pro~~ Sysadmin
     @MDxWARRIORxOP - Dev / javascript wizard
     @epizyy66 - Dev
     @MiniFeraful - Does nothing
 
 ## In progress projects:
-    Twitch Bot (public soon ™️)
+    Twitch Bot (in progress ™️)
     YouTube bot (starting soon ™️)
     Dashboard (alpha release soon ™️)
+    DiscordSrv alternative for fabric? (starting on the back-burner ™️)
     
     
 ## Current Projects:
