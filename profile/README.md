@@ -13,7 +13,7 @@ We are a coding organisation run by @TheAlienDoctor! Working on various MC & web
 
 ## In progress projects:
     Twitch Bot (in progress ™️)
-    YouTube bot (starting soon ™️)
+    YouTube bot (in progress ™️)
     Dashboard (alpha release soon ™️)
     DiscordSrv alternative for fabric? (starting on the back-burner ™️)
     
