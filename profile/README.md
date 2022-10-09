@@ -8,8 +8,8 @@ We are a coding organisation run by @TheAlienDoctor! Working on various MC & web
     @TheAlienDoctor - Owner / MCBE go-to guy
     @NiceygyLive - Dev / Linux Sysadmin
     @MDxWARRIORxOP - Dev / javascript wizard
-    @epizyy66 - Dev
-    @MiniFeraful - Does nothing
+    @epizyy66 - Dev / Mostly website stuff
+    @MiniFeraful - Idk why hes here
 
 ## In progress projects:
     Twitch Bot (in progress ™️)
