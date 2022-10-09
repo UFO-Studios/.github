@@ -15,7 +15,7 @@ We are a coding organisation run by @TheAlienDoctor! Working on various MC & web
     Twitch Bot (in progress ™️)
     YouTube bot (in progress ™️)
     Dashboard (alpha release soon ™️)
-    DiscordSrv alternative for fabric? (starting on the back-burner ™️)
+    Fabric mod similar to 3rd life (starting on the back-burner ™️)
     
     
 ## Current Projects:
