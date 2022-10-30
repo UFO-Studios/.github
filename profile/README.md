@@ -15,7 +15,10 @@ We are a coding organisation run by @TheAlienDoctor! Working on various MC & web
     Twitch Bot (in progress ™️)
     YouTube bot (in progress ™️)
     Dashboard (alpha release soon ™️)
-    Fabric mod similar to 3rd life (starting on the back-burner ™️)
+    Spigot 3RD life plugin (in progress ™️)
+  
+## (Mostly) Completed projects
+    Discord bot
     
     
 ## Current Projects:
@@ -27,3 +30,4 @@ We are a coding organisation run by @TheAlienDoctor! Working on various MC & web
  You could:
         A: Open a PR on any or our repos, or 
         B: Join the discord! ( https://thealiendoctor.com/r/discord )
+        
