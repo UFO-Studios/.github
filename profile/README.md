@@ -9,7 +9,7 @@ We are a coding organisation run by @TheAlienDoctor! Working on various MC & web
     @NiceygyLive - Dev / Linux Sysadmin
     @MDxWARRIORxOP - Dev / javascript wizard
     @epizyy66 - Dev / Mostly website stuff
-    @MiniFearful - Idk why hes here
+    @MiniFearful - Human / Idk why hes here
 
 ## In progress projects:
     Twitch Bot (in progress ™️)
