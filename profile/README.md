@@ -12,8 +12,6 @@ We are a coding organisation run by @TheAlienDoctor! Working on various MC & web
     @MiniFearful - Human / Idk why hes here
 
 ## In progress projects:
-    Twitch Bot (in progress ™️)
-    YouTube bot (in progress ™️)
     Dashboard (alpha release soon ™️)
     Spigot 3RD life plugin (in progress ™️)
   
