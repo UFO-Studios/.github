@@ -12,11 +12,12 @@ We are a coding organisation run by @TheAlienDoctor! Working on various MC & web
     @MiniFearful - Human / Idk why hes here
 
 ## In progress projects:
-    Dashboard (alpha release soon ™️)
-    Spigot 3RD life plugin (in progress ™️)
+    Dashboard (see `Alienbot-Dashboard`)
+
   
 ## (Mostly) Completed projects
     Discord bot
+    3RD life mod
     
     
 ## Current Projects:
