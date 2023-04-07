@@ -8,7 +8,7 @@ We are a coding organisation run by @TheAlienDoctor! Working on various MC & web
     @TheAlienDoctor - Owner / MCBE go-to guy
     @NiceygyLive - Dev / Linux Sysadmin
     @MDxWARRIORxOP - Dev / javascript wizard
-    @epizyy66 - Dev / Mostly website stuff
+    @epxzzy - Dev / Mostly website stuff
     @MiniFearful - Human / Idk why hes here
 
 ## In progress projects:
