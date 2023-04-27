@@ -10,6 +10,7 @@ We are a coding organisation run by @TheAlienDoctor! Working on various MC & web
     @MDxWARRIORxOP - Dev / javascript wizard
     @epxzzy - Dev / Mostly website stuff
     @MiniFearful - Human / Idk why hes here
+    @PenguinBTW - Addons / Web
 
 ## In progress projects:
     Dashboard (see `Alienbot-Dashboard`)
