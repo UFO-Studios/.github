@@ -17,7 +17,7 @@ We are a coding organisation run by @TheAlienDoctor! Working on various MC, web 
     AlienBot-Youtube
 
   
-## (Mostly) Completed projects
+## Mostly Completed projects
     AlienBot-Discord
     3RD life mod
     
