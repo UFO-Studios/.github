@@ -1,6 +1,6 @@
 # Hi there 👋
 
-We are a coding organisation run by @TheAlienDoctor! Working on various MC & web projects. Check us out at https://TheAlienDoctor.com !
+We are a coding organisation run by @TheAlienDoctor! Working on various MC, web and node projects. Check us out at https://TheAlienDoctor.com !
 
 
 ## Current members:
