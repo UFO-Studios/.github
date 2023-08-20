@@ -14,10 +14,11 @@ We are a coding organisation run by @TheAlienDoctor! Working on various MC, web 
 
 ## In progress projects:
     Dashboard (see `Alienbot-Dashboard`)
+    AlienBot-Youtube
 
   
 ## (Mostly) Completed projects
-    Discord bot
+    AlienBot-Discord
     3RD life mod
     
     
