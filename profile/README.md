@@ -5,21 +5,21 @@ We are a coding organisation run by @TheAlienDoctor! Working on various MC, web 
 
 ## Current members:
 
-    @TheAlienDoctor - Owner / MCBE go-to guy
-    @NiceygyLive - Dev / Linux Sysadmin
-    @MDxWARRIORxOP - Dev / Javascript Wizard
-    @epxzzy - Dev / Mostly website stuff
-    @PenguinBTW - Dev / Addons and Web
-    @MiniFearful - Human / Idk why hes here
+- @TheAlienDoctor - Owner / MCBE go-to guy
+- @NiceygyLive - Dev / Linux Sysadmin
+- @MDxWARRIORxOP - Dev / Javascript Wizard
+- @epxzzy - Dev / Mostly website stuff
+- @PenguinBTW - Dev / Addons and Web
+- @MiniFearful - Human / Idk why hes here
 
 ## In progress projects:
-    Dashboard (see `Alienbot-Dashboard`)
-    AlienBot-Youtube
+- AlienBot-Youtube
 
   
 ## Mostly Completed projects:
-    AlienBot-Discord
-    3RD life mod
+- AlienBot-Discord
+- 3RD life mod
+- WorkerDownloadRecorder
     
     
 ## Current Projects:
