@@ -1,5 +1,9 @@
 # Contributor Covenant Code of Conduct
 
+## TL;DR
+
+Behave in a polite & kind manner, and obide by common sense.
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
