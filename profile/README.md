@@ -6,7 +6,7 @@ We are a coding organisation run by @TheAlienDoctor! Working on various MC, web 
 ## Current members:
 
 - [@TheAlienDoctor](https://github.com/thealiendoctor) - Owner + Dev / MCBE go-to guy
-- [@NiceygyLive](https://github.com/niceygylive) - Dev / Linux Sysadmin
+- [@Niceygy](https://github.com/niceygy) - Dev / Linux Sysadmin
 - [@MDxWARRIORxOP](https://github.com/MDxWARRIORxOP) - Dev / Javascript Wizard
 - [@epxzzy](https://github.com/epxzzy) - Dev / Mostly website stuff
 - [@PenguinBTW](https://github.com/PenguinBTW) - Dev / Addons and Web
