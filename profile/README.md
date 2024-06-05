@@ -22,7 +22,7 @@ We are a coding organisation run by @TheAlienDoctor! Working on various MC, web 
     
     
 ## Current Projects:
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=thealiendoctor.com)](https://github.com/ufo-studios/thealiendoctor.com) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=AlienBot-Discord)](https://github.com/UFO-Studios/AlienBot-Discord) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=AlienBot-Youtube)](https://github.com/UFO-Studios/AlienBot-Youtube) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=WorkerDownloadRecorder)](https://github.com/UFO-Studios/WorkerDownloadRecorder)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=thealiendoctor.com)](https://github.com/ufo-studios/thealiendoctor.com) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=AlienBot-Discord)](https://github.com/UFO-Studios/AlienBot-Discord) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=BDS-Companion)](https://github.com/UFO-Studios/bds-companion) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ufo-studios&repo=WorkerDownloadRecorder)](https://github.com/UFO-Studios/WorkerDownloadRecorder)
     
     
 ## Want to join us?
